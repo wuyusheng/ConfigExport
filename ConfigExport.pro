@@ -55,3 +55,4 @@ FORMS  		+=  ui/mainwindow.ui \
 RESOURCES   += 	resource/sysconfig.qrc
 RC_FILE 	=   sysconfig.rc
 
+
