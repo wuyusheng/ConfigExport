@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{ea36f6f5-83c2-47a4-bfc7-624e2f7d82a2}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{4a0c49bc-48c3-49f7-935f-dd7f222c565f}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="databaseadapter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="delegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exportdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="smartgridcolumn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="smarttreemodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tablewidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="treewidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_delegate.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_delegate.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_exportdialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_exportdialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_mainwindow.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_mainwindow.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_model.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_model.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_tablewidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_tablewidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_treewidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_treewidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_sysconfig.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="databaseadapter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="delegate.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="exportdialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="model.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="smartgridcolumn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="smarttreemodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="tablewidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="treewidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_exportdialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_mainwindow.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_tabledetailwidget.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="ui\exportdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\tabledetailwidget.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resource\images\about.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\add.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\book.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\box.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\catalog.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\center.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\checklist.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\config.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\delete.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\device.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\download.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\edit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\excel.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\exit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\filenew.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\fullscreen.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\item.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\items.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\layers.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\list.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\mark.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\measure.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\ok.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\open.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\pan.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\port.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\project.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\protocol.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\refresh.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\regselect.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\reload.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\save.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\saveas.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\screenshot.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\settingfolder.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\settings.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="resource\sysconfig.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="resource\images\tag.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\uc.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\zoomin.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\zoomout.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="sysconfig.rc" />
+  </ItemGroup>
+</Project>

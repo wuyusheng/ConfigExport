@@ -1,0 +1,51 @@
+﻿生成启动时间为 2016/3/1 10:38:37。
+     1>项目“D:\Projects\ConfigExport\ConfigExport.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing delegate.h...
+         Moc'ing exportdialog.h...
+         Moc'ing mainwindow.h...
+         Moc'ing model.h...
+         Moc'ing tablewidget.h...
+         Moc'ing treewidget.h...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_delegate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_delegate.cpp, Release\moc_delegate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_exportdialog.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_exportdialog.cpp, Release\moc_exportdialog.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_mainwindow.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_mainwindow.cpp, Release\moc_mainwindow.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_model.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_model.cpp, Release\moc_model.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_tablewidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_tablewidget.cpp, Release\moc_tablewidget.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_treewidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_treewidget.cpp, Release\moc_treewidget.cpp.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I./include /IC:\Qt\Qt5.5.0\5.5\msvc2013_64\include /IC:\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtWidgets /IC:\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtGui /IC:\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtANGLE /IC:\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtSql /IC:\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtCore /Idebug /I. /I"C:\Qt\Qt5.5.0\5.5\msvc2013_64\mkspecs\win32-msvc2013" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SQL_LIB /D QT_WIDGETS_LIB /D UNICODE /D UNICODE /D WIN32 /D WIN32 /D WIN64 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt -w34100 -w34189 -w44996 Debug\moc_delegate.cpp Debug\moc_exportdialog.cpp Debug\moc_mainwindow.cpp Debug\moc_model.cpp Debug\moc_tablewidget.cpp Debug\moc_treewidget.cpp databaseadapter.cpp
+         moc_delegate.cpp
+         moc_exportdialog.cpp
+         moc_mainwindow.cpp
+         moc_model.cpp
+         moc_tablewidget.cpp
+         moc_treewidget.cpp
+         databaseadapter.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\ConfigExport\x64\Debug\\ConfigExport.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.0\5.5\msvc2013_64\lib /LIBPATH:C:/qt/qt5.5.0/5.5/msvc2013_64/lib /LIBPATH:C:\Qt\Qt5.5.0\5.5\msvc2013_64\lib C:\Qt\Qt5.5.0\5.5\msvc2013_64\lib\qtmaind.lib shell32.lib C:/qt/qt5.5.0/5.5/msvc2013_64/lib\Qt5Cored.lib C:\Qt\Qt5.5.0\5.5\msvc2013_64\lib\Qt5Widgetsd.lib C:\Qt\Qt5.5.0\5.5\msvc2013_64\lib\Qt5Guid.lib C:\Qt\Qt5.5.0\5.5\msvc2013_64\lib\Qt5Sqld.lib C:\Qt\Qt5.5.0\5.5\msvc2013_64\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\ConfigExport\x64\Debug\ConfigExport.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X64 "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" x64\Debug\sysconfig.res
+         x64\Debug\databaseadapter.obj
+         x64\Debug\moc_delegate.obj
+         x64\Debug\moc_exportdialog.obj
+         x64\Debug\moc_mainwindow.obj
+         x64\Debug\moc_model.obj
+         x64\Debug\moc_tablewidget.obj
+         x64\Debug\moc_treewidget.obj
+         x64\Debug\delegate.obj
+         x64\Debug\exportdialog.obj
+         x64\Debug\qrc_sysconfig.obj
+         x64\Debug\main.obj
+         x64\Debug\mainwindow.obj
+         x64\Debug\model.obj
+         x64\Debug\smartgridcolumn.obj
+         x64\Debug\smarttreemodel.obj
+         x64\Debug\tablewidget.obj
+         x64\Debug\treewidget.obj
+         x64\Debug\util.obj
+         ConfigExport.vcxproj -> D:\Projects\ConfigExport\x64\Debug\ConfigExport.exe
+     1>已完成生成项目“D:\Projects\ConfigExport\ConfigExport.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.77

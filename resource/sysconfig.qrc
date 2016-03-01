@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="">
+		<file alias="open.png">images/open.png</file>
+		<file alias="zoomin.png">images/zoomin.png</file>
+		<file alias="zoomout.png">images/zoomout.png</file>
+		<file alias="fullscreen.png">images/fullscreen.png</file>
+		<file alias="layers.png">images/layers.png</file>
+		<file alias="mark.png">images/mark.png</file>
+		<file alias="measure.png">images/measure.png</file>
+		<file alias="tag.png">images/tag.png</file>
+		<file alias="catalog.png">images/catalog.png</file>
+		<file alias="regselect.png">images/regselect.png</file>
+		<file alias="pan.png">images/pan.png</file>
+		<file alias="center.png">images/center.png</file>
+		<file alias="save.png">images/save.png</file>
+		<file alias="saveas.png">images/saveas.png</file>
+		<file alias="screenshot.png">images/screenshot.png</file>
+		<file alias="about.png">images/about.png</file>
+		<file alias="book.png">images/book.png</file>
+		<file alias="box.png">images/box.png</file>
+		<file alias="checklist.png">images/checklist.png</file>
+		<file alias="config.png">images/config.png</file>
+		<file alias="download.png">images/download.png</file>
+		<file alias="edit.png">images/edit.png</file>
+		<file alias="exit.png">images/exit.png</file>
+		<file alias="item.png">images/item.png</file>
+		<file alias="items.png">images/items.png</file>
+		<file alias="list.png">images/list.png</file>
+		<file alias="settingfolder.png">images/settingfolder.png</file>
+		<file alias="settings.png">images/settings.png</file>
+		<file alias="upload.png">images/upload.png</file>
+		<file alias="add.png">images/add.png</file>
+		<file alias="ok.png">images/ok.png</file>
+		<file alias="delete.png">images/delete.png</file>
+		<file alias="reload.png">images/reload.png</file>
+		<file alias="excel.png">images/excel.png</file>
+		<file alias="project.png">images/project.png</file>
+		<file alias="uc.png">images/uc.png</file>
+		<file alias="port.png">images/port.png</file>
+		<file alias="device.png">images/device.png</file>
+		<file alias="filenew.png">images/filenew.png</file>
+		<file alias="refresh.png">images/refresh.png</file>
+		<file alias="protocol.png">images/protocol.png</file>
+		
+		
+    </qresource>
+</RCC>
